@@ -1,0 +1,11 @@
+[
+  {
+    "id": "u1",
+    "name": "Admin User",
+    "email": "admin@happystore.com",
+    "password": "admin123",
+    "role": "admin",
+    "address": "Lagos, Nigeria",
+    "createdAt": "2026-01-01"
+  }
+]

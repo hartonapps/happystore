@@ -1,0 +1,502 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Headphones 🎧",
+    "price": 120,
+    "category": "Electronics",
+    "description": "High quality sound with active noise cancellation, 30-hour battery life, and premium comfort for all-day listening.",
+    "emoji": "🎧",
+    "stock": 20,
+    "rating": 4.5
+  },
+  {
+    "id": "p2",
+    "name": "Smartphone 📱",
+    "price": 699,
+    "category": "Electronics",
+    "description": "Latest flagship phone with 6.7-inch AMOLED display, 128GB storage, and pro-grade camera system.",
+    "emoji": "📱",
+    "stock": 15,
+    "rating": 4.8
+  },
+  {
+    "id": "p3",
+    "name": "Laptop 💻",
+    "price": 999,
+    "category": "Electronics",
+    "description": "Powerful 15-inch laptop with 16GB RAM, 512GB SSD, and dedicated graphics for work and play.",
+    "emoji": "💻",
+    "stock": 10,
+    "rating": 4.7
+  },
+  {
+    "id": "p4",
+    "name": "Smart Watch ⌚",
+    "price": 249,
+    "category": "Electronics",
+    "description": "Fitness tracker with heart rate monitoring, GPS, and 7-day battery life. Water-resistant to 50m.",
+    "emoji": "⌚",
+    "stock": 25,
+    "rating": 4.3
+  },
+  {
+    "id": "p5",
+    "name": "Bluetooth Speaker 🔊",
+    "price": 79,
+    "category": "Electronics",
+    "description": "Portable speaker with 360-degree sound, 12-hour playtime, and waterproof design for outdoor adventures.",
+    "emoji": "🔊",
+    "stock": 30,
+    "rating": 4.4
+  },
+  {
+    "id": "p6",
+    "name": "Tablet 📱",
+    "price": 449,
+    "category": "Electronics",
+    "description": "10-inch tablet with crisp display, perfect for reading, streaming, and light productivity tasks.",
+    "emoji": "📱",
+    "stock": 18,
+    "rating": 4.2
+  },
+  {
+    "id": "p7",
+    "name": "Gaming Console 🎮",
+    "price": 499,
+    "category": "Gaming",
+    "description": "Next-gen gaming console with 4K graphics, 1TB storage, and access to hundreds of exclusive games.",
+    "emoji": "🎮",
+    "stock": 8,
+    "rating": 4.9
+  },
+  {
+    "id": "p8",
+    "name": "Gaming Mouse 🖱️",
+    "price": 59,
+    "category": "Gaming",
+    "description": "Professional gaming mouse with 25K DPI sensor, RGB lighting, and programmable buttons.",
+    "emoji": "🖱️",
+    "stock": 35,
+    "rating": 4.6
+  },
+  {
+    "id": "p9",
+    "name": "Gaming Keyboard ⌨️",
+    "price": 129,
+    "category": "Gaming",
+    "description": "Mechanical gaming keyboard with RGB backlight, Cherry MX switches, and dedicated media keys.",
+    "emoji": "⌨️",
+    "stock": 22,
+    "rating": 4.7
+  },
+  {
+    "id": "p10",
+    "name": "VR Headset 🥽",
+    "price": 399,
+    "category": "Gaming",
+    "description": "Immersive VR headset with 4K resolution, inside-out tracking, and 300+ titles in the game library.",
+    "emoji": "🥽",
+    "stock": 12,
+    "rating": 4.5
+  },
+  {
+    "id": "p11",
+    "name": "Gaming Chair 🪑",
+    "price": 299,
+    "category": "Gaming",
+    "description": "Ergonomic gaming chair with lumbar support, adjustable armrests, and premium leather finish.",
+    "emoji": "🪑",
+    "stock": 15,
+    "rating": 4.4
+  },
+  {
+    "id": "p12",
+    "name": "Gaming Monitor 🖥️",
+    "price": 349,
+    "category": "Gaming",
+    "description": "27-inch 144Hz gaming monitor with 1ms response time and FreeSync support for smooth gameplay.",
+    "emoji": "🖥️",
+    "stock": 14,
+    "rating": 4.6
+  },
+  {
+    "id": "p13",
+    "name": "Men's T-Shirt 👕",
+    "price": 29,
+    "category": "Fashion",
+    "description": "Comfortable cotton t-shirt in multiple colors. Perfect for casual everyday wear.",
+    "emoji": "👕",
+    "stock": 50,
+    "rating": 4.1
+  },
+  {
+    "id": "p14",
+    "name": "Women's Dress 👗",
+    "price": 79,
+    "category": "Fashion",
+    "description": "Elegant floral dress perfect for both casual and formal occasions. Available in multiple sizes.",
+    "emoji": "👗",
+    "stock": 28,
+    "rating": 4.3
+  },
+  {
+    "id": "p15",
+    "name": "Running Shoes 👟",
+    "price": 89,
+    "category": "Fashion",
+    "description": "Lightweight running shoes with cushioned sole and breathable mesh upper for maximum comfort.",
+    "emoji": "👟",
+    "stock": 40,
+    "rating": 4.5
+  },
+  {
+    "id": "p16",
+    "name": "Leather Bag 👜",
+    "price": 149,
+    "category": "Fashion",
+    "description": "Genuine leather messenger bag with multiple compartments. Perfect for work and travel.",
+    "emoji": "👜",
+    "stock": 20,
+    "rating": 4.7
+  },
+  {
+    "id": "p17",
+    "name": "Sunglasses 🕶️",
+    "price": 45,
+    "category": "Fashion",
+    "description": "UV400 protection sunglasses with polarized lenses. Stylish design for all face shapes.",
+    "emoji": "🕶️",
+    "stock": 45,
+    "rating": 4.2
+  },
+  {
+    "id": "p18",
+    "name": "Wrist Watch ⌚",
+    "price": 199,
+    "category": "Fashion",
+    "description": "Classic analog watch with stainless steel case and genuine leather strap. Water-resistant to 30m.",
+    "emoji": "⌚",
+    "stock": 25,
+    "rating": 4.6
+  },
+  {
+    "id": "p19",
+    "name": "Winter Jacket 🧥",
+    "price": 159,
+    "category": "Fashion",
+    "description": "Warm winter jacket with water-resistant outer layer and cozy fleece lining.",
+    "emoji": "🧥",
+    "stock": 18,
+    "rating": 4.4
+  },
+  {
+    "id": "p20",
+    "name": "Baseball Cap 🧢",
+    "price": 25,
+    "category": "Fashion",
+    "description": "Adjustable baseball cap with embroidered logo. One size fits all.",
+    "emoji": "🧢",
+    "stock": 60,
+    "rating": 4.0
+  },
+  {
+    "id": "p21",
+    "name": "Pizza 🍕",
+    "price": 15,
+    "category": "Food",
+    "description": "Freshly baked pizza with tomato sauce, mozzarella cheese, and your choice of toppings.",
+    "emoji": "🍕",
+    "stock": 100,
+    "rating": 4.8
+  },
+  {
+    "id": "p22",
+    "name": "Burger 🍔",
+    "price": 12,
+    "category": "Food",
+    "description": "Juicy beef burger with fresh lettuce, tomato, onion, and special sauce.",
+    "emoji": "🍔",
+    "stock": 100,
+    "rating": 4.6
+  },
+  {
+    "id": "p23",
+    "name": "Sushi 🍣",
+    "price": 24,
+    "category": "Food",
+    "description": "Assorted fresh sushi rolls with salmon, tuna, and avocado. Includes wasabi and ginger.",
+    "emoji": "🍣",
+    "stock": 50,
+    "rating": 4.7
+  },
+  {
+    "id": "p24",
+    "name": "Ice Cream 🍦",
+    "price": 6,
+    "category": "Food",
+    "description": "Creamy vanilla ice cream with chocolate sauce and whipped cream topping.",
+    "emoji": "🍦",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": "p25",
+    "name": "Coffee ☕",
+    "price": 5,
+    "category": "Food",
+    "description": "Freshly brewed coffee with your choice of milk and sugar. Hot or cold available.",
+    "emoji": "☕",
+    "stock": 200,
+    "rating": 4.3
+  },
+  {
+    "id": "p26",
+    "name": "Donut 🍩",
+    "price": 3,
+    "category": "Food",
+    "description": "Fresh glazed donut with sprinkles. Perfect sweet treat for any time of day.",
+    "emoji": "🍩",
+    "stock": 150,
+    "rating": 4.4
+  },
+  {
+    "id": "p27",
+    "name": "Salad 🥗",
+    "price": 10,
+    "category": "Food",
+    "description": "Fresh garden salad with mixed greens, cherry tomatoes, cucumber, and vinaigrette.",
+    "emoji": "🥗",
+    "stock": 60,
+    "rating": 4.2
+  },
+  {
+    "id": "p28",
+    "name": "Cake 🎂",
+    "price": 35,
+    "category": "Food",
+    "description": "Delicious chocolate cake with creamy frosting. Perfect for celebrations.",
+    "emoji": "🎂",
+    "stock": 20,
+    "rating": 4.9
+  },
+  {
+    "id": "p29",
+    "name": "Hot Dog 🌭",
+    "price": 7,
+    "category": "Food",
+    "description": "Classic hot dog with mustard, ketchup, and onions on a fresh bun.",
+    "emoji": "🌭",
+    "stock": 100,
+    "rating": 4.1
+  },
+  {
+    "id": "p30",
+    "name": "Taco 🌮",
+    "price": 8,
+    "category": "Food",
+    "description": "Three tasty tacos with seasoned beef, fresh salsa, and sour cream.",
+    "emoji": "🌮",
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "id": "p31",
+    "name": "Smart Lamp 💡",
+    "price": 45,
+    "category": "Home",
+    "description": "WiFi-enabled smart lamp with 16 million colors. Control via voice or app.",
+    "emoji": "💡",
+    "stock": 30,
+    "rating": 4.3
+  },
+  {
+    "id": "p32",
+    "name": "Plant Pot 🪴",
+    "price": 18,
+    "category": "Home",
+    "description": "Modern ceramic plant pot with drainage hole. Perfect for indoor plants.",
+    "emoji": "🪴",
+    "stock": 45,
+    "rating": 4.2
+  },
+  {
+    "id": "p33",
+    "name": "Throw Pillow 🛋️",
+    "price": 22,
+    "category": "Home",
+    "description": "Soft decorative throw pillow with removable washable cover. Multiple colors available.",
+    "emoji": "🛋️",
+    "stock": 55,
+    "rating": 4.1
+  },
+  {
+    "id": "p34",
+    "name": "Wall Clock 🕐",
+    "price": 35,
+    "category": "Home",
+    "description": "Modern minimalist wall clock with silent movement. 12-inch diameter.",
+    "emoji": "🕐",
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "id": "p35",
+    "name": "Storage Box 📦",
+    "price": 15,
+    "category": "Home",
+    "description": "Collapsible storage box with handles. Perfect for organizing closets and drawers.",
+    "emoji": "📦",
+    "stock": 70,
+    "rating": 4.0
+  },
+  {
+    "id": "p36",
+    "name": "Candle 🕯️",
+    "price": 12,
+    "category": "Home",
+    "description": "Aromatic scented candle with 40-hour burn time. Lavender vanilla fragrance.",
+    "emoji": "🕯️",
+    "stock": 50,
+    "rating": 4.6
+  },
+  {
+    "id": "p37",
+    "name": "Picture Frame 🖼️",
+    "price": 20,
+    "category": "Home",
+    "description": "Modern wooden picture frame. Fits 8x10 photos. Wall mount or tabletop.",
+    "emoji": "🖼️",
+    "stock": 40,
+    "rating": 4.3
+  },
+  {
+    "id": "p38",
+    "name": "Bed Sheets 🛏️",
+    "price": 55,
+    "category": "Home",
+    "description": "Soft 400-thread count cotton bed sheets. Machine washable. Multiple sizes.",
+    "emoji": "🛏️",
+    "stock": 35,
+    "rating": 4.7
+  },
+  {
+    "id": "p39",
+    "name": "Towel Set 🧖",
+    "price": 38,
+    "category": "Home",
+    "description": "Luxury 6-piece towel set. Ultra-soft and absorbent. Multiple colors.",
+    "emoji": "🧖",
+    "stock": 28,
+    "rating": 4.5
+  },
+  {
+    "id": "p40",
+    "name": "Door Mat 🚪",
+    "price": 25,
+    "category": "Home",
+    "description": "Durable coir door mat with non-slip backing. Removes dirt effectively.",
+    "emoji": "🚪",
+    "stock": 42,
+    "rating": 4.2
+  },
+  {
+    "id": "p41",
+    "name": "Wireless Earbuds 🎧",
+    "price": 89,
+    "category": "Electronics",
+    "description": "True wireless earbuds with active noise cancellation, 8-hour battery, and clear call quality.",
+    "emoji": "🎧",
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "id": "p42",
+    "name": "Action Camera 📷",
+    "price": 199,
+    "category": "Electronics",
+    "description": "Waterproof action camera with 4K video, image stabilization, and WiFi connectivity.",
+    "emoji": "📷",
+    "stock": 16,
+    "rating": 4.5
+  },
+  {
+    "id": "p43",
+    "name": "Fitness Band 📟",
+    "price": 39,
+    "category": "Electronics",
+    "description": "Slim fitness tracker with heart rate monitor, sleep tracking, and 10-day battery.",
+    "emoji": "📟",
+    "stock": 38,
+    "rating": 4.1
+  },
+  {
+    "id": "p44",
+    "name": "Portable Charger 🔋",
+    "price": 35,
+    "category": "Electronics",
+    "description": "20000mAh power bank with fast charging. Charges 3 devices simultaneously.",
+    "emoji": "🔋",
+    "stock": 55,
+    "rating": 4.6
+  },
+  {
+    "id": "p45",
+    "name": "USB Hub 🔌",
+    "price": 25,
+    "category": "Electronics",
+    "description": "7-port USB 3.0 hub with individual switches and LED indicators.",
+    "emoji": "🔌",
+    "stock": 44,
+    "rating": 4.3
+  },
+  {
+    "id": "p46",
+    "name": "Mechanical Keyboard ⌨️",
+    "price": 149,
+    "category": "Electronics",
+    "description": "RGB mechanical keyboard with hot-swappable switches and programmable macros.",
+    "emoji": "⌨️",
+    "stock": 20,
+    "rating": 4.7
+  },
+  {
+    "id": "p47",
+    "name": "Webcam 📹",
+    "price": 79,
+    "category": "Electronics",
+    "description": "1080p webcam with built-in microphone and automatic low-light correction.",
+    "emoji": "📹",
+    "stock": 22,
+    "rating": 4.4
+  },
+  {
+    "id": "p48",
+    "name": "Microphone 🎤",
+    "price": 89,
+    "category": "Electronics",
+    "description": "USB condenser microphone for podcasting and streaming. Includes pop filter.",
+    "emoji": "🎤",
+    "stock": 18,
+    "rating": 4.5
+  },
+  {
+    "id": "p49",
+    "name": "Router 📡",
+    "price": 129,
+    "category": "Electronics",
+    "description": "Dual-band WiFi 6 router with 4 Gigabit ports. Covers up to 2500 sq ft.",
+    "emoji": "📡",
+    "stock": 14,
+    "rating": 4.6
+  },
+  {
+    "id": "p50",
+    "name": "Smart Plug 🔌",
+    "price": 15,
+    "category": "Electronics",
+    "description": "WiFi smart plug with voice control compatibility. Schedule and remote control.",
+    "emoji": "🔌",
+    "stock": 80,
+    "rating": 4.2
+  }
+]
